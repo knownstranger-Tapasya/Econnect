@@ -1,2 +1,2 @@
-# Stream-Savvy
-This a fully responsive clone of YouTube
+# Econnect
+This a fully responsive clone of Whatsapp
