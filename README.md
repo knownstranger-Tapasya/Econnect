@@ -27,3 +27,6 @@ To run this project locally, follow these steps:
 
 ## License
 This project is licensed under the MIT License.
+
+## Acknowledgements
+This project was inspired by the WhatsApp Web interface.
